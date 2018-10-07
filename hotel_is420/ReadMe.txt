@@ -1,0 +1,5 @@
+This is a sample of my work for IS 420, which covered advanced database concepts including SQL, PL/SQL, and later NoSQL. The purpose of the project was to create a hotel database system which would track rooms, reservations, customers, charges, etc. The bulk of the work involved creation PL/SQL functions to handle basic hotel actions, such as reserving a room or changing your reservation.
+
+I included the setup script, which is a large collection of simple SQL commands to initialize the database so that it can be acted upon by our PL/SQL commands. The database used was Oracle. I was primarily responsible for the creation of this document.
+
+I have ONLY included the functions which I wrote. As such, it is only part of the entire project, but I did not want to take credit for the work of my teammates.
